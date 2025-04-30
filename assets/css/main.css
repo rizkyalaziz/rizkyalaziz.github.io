@@ -808,15 +808,15 @@ section,
 
 .hero .hero-image {
   position: relative;
-  padding: 5rem;
+  padding: 2rem;
   border-radius: 50%;
 }
 
 .hero .hero-image img {
  
-  z-index: 2;
+ 
   position: relative;
-  width: 25vw;
+ 
   border-radius: 50%;
   box-shadow: 0 0 25px solid #b74b4b;
   cursor:
